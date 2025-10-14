@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bienvenue sur mon portfolio ! Je suis Ethel Bilambo Kalonda !
 
 <!--
 **ebilambo/ebilambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Je suis actuellement étudiante en BTS SIO option Slam à Aurlom BTS+ et je suis également à la recherche d'une alternance.
+
+Passionnée par le développement web et les langages informatiques, j'espère pouvoir travailler dans des entreprises où ces domaines sont courants.
