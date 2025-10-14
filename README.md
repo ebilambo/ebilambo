@@ -21,4 +21,7 @@ Passionnée par le développement web et les langages informatiques, j'espère p
 
 ## A propos de moi 
 
-J'ai fait un baccalauréat général en 2023, puis je suis allée en licence informatique, avec pour but d'avoir un bac +5, afin de devenir créatrice de jeux-vidéos. Cependant, mon parcours ne s'est pas passé comme prévu, et
+J'ai fait un baccalauréat général en 2023, puis je suis allée en licence informatique, avec pour but d'avoir un bac +5, afin de devenir créatrice de jeux-vidéos. Cependant, mon parcours académique ne s'est pas passé comme prévu; de plus, je me suis remise en question sur le domaine dans lequel je voulais travailler à l'origine. En effet, j'ai commencé à plus aimer l'apprentissage et le rôle des différents langages informatiques (Python et HTML en particulier) que le fait de créer des jeux-vidéos sur Godot. Ainsi, je me suis réorientée en informatique pour faire un BTS Services Informatiques aux Organisations.
+
+Mon objectif principal serait de faire, au moins, un bac +3 (BTS SIO Slam et ensuite un bachelor Développement). 
+Le métier que j'aimerais faire plus que tout serait d'être développeuse web/fullstack/front-end/back-end.
