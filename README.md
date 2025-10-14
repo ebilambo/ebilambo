@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 Je suis actuellement étudiante en BTS SIO option Slam à Aurlom BTS+ et je suis également à la recherche d'une alternance.
 
 Passionnée par le développement web et les langages informatiques, j'espère pouvoir travailler dans des entreprises où ces domaines sont courants.
+
+## A propos de moi 
+
+J'ai fait un baccalauréat général en 2023, puis je suis allée en licence informatique, avec pour but d'avoir un bac +5, afin de devenir créatrice de jeux-vidéos. Cependant, mon parcours ne s'est pas passé comme prévu, et
