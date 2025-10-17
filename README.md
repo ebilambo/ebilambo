@@ -25,3 +25,9 @@ J'ai fait un baccalauréat général en 2023, puis je suis allée en licence inf
 
 Mon objectif principal serait de faire, au moins, un bac +3 (BTS SIO Slam et ensuite un bachelor Développement). 
 Le métier que j'aimerais faire plus que tout serait d'être développeuse web/fullstack/front-end/back-end.
+
+## Contact
+
+Mail: bethel2601@gmail.com
+Lien vers mon linkedin: www.linkedin.com/in/ethel-bilambo-22319a2b6
+Mon Github: github.com/ebilambo
