@@ -26,13 +26,28 @@ J'ai fait un baccalauréat général en 2023, puis je suis allée en licence inf
 Mon objectif principal serait de faire, au moins, un bac +3 (BTS SIO Slam et ensuite un bachelor Développement). 
 Le métier que j'aimerais faire plus que tout serait d'être développeuse web/fullstack/front-end/back-end.
 
+## Expériences professionnelles
+
+2023: Stage d'observation d'une semaine à Outsight. Découverte de différents métiers dans le dévéloppement informatique.
+2021: Stage d'un mois dans le cadre de Jump In Tech à Becomtech. On a pu couvrir un grnad nombre de secteurs (communication, informatique, collaboration en groupe...).
+
+## Formations
+
+2025-2027: BTS Services Informatiques aux Organisations option Solutions Logicielles et Applications Métiers à Aurlom BTS+.
+2023-2025  - Licence informatique à l'Université Paris 8. J'ai pu faire des sites avec HTML et CSS, apprendre à utliser Linux, Git, Godot Engine. J'ai pu faire des projets en C. J'ai appris différents langages informatiques tels que C, Racket et Perl.
+
+## Réalisations
+
+J'ai pu faire un travail en groupe autour du langage C, dans le cadre de ma licence, avec des problématiques précises. On devait le faire en un trimestre par groupe de deux.
+J'ai aussi eu l'occasion de faire plusieurs fois un site avec HTML et CSS, parfois aussi Javascript.
+
 ## Compétences
 
-Langages informatiques: Python, HTML, CSS, C, Racket, Perl
+Langages informatiques: Python, HTML, CSS, C, Racket, Perl, Javascript
 
 Outils informatiques: Windows, Linux, Git, VSCode 
 
-Humaines: Autonomie, capacité d'analyse, persévérance, rigueur, travail en équipe
+Humaines: Autonomie, adaptabilité, capacité d'analyse, persévérance, rigueur, travail en équipe
 
 ## Contact
 
