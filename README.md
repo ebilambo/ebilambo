@@ -45,7 +45,9 @@ J'ai pu faire un travail en groupe autour du langage C, dans le cadre de ma lice
 J'ai aussi eu l'occasion de faire plusieurs fois un site avec HTML et CSS, parfois aussi Javascript.
 
 Cette année, j'ai eu l'occasion de faire une interface de site d'e-commerce, avec pour thème les voitures de luxe; notamment en utilisant HTML et CSS.
-(URL)
+(URL).
+
+Avec l'école, je suis en train d'apprendre Javascript. Ayant un peu d'expérience en Python, je m'y suis un peu retrouvée. Cependant, j'en apprends de plus en plus. Je suis d'ailleurs en train de faire un site utilisant les trois langages principaux du front-end.
 
 ## Compétences
 
