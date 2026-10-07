@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Container */
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px 0;
+}
+
+/* HEADER */
+header {
+    background-color: #1790f3;
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+}
+
+/* NAVIGATION */
+nav {
+    background-color: #333;
+}
+.nav-list {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+.nav-list li {
+    margin: 0 15px;
+}
+.nav-list a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.nav-list a:hover {
+    background-color: #1790f3;
+    border-radius: 5px;
+}
+
+/* SECTIONS */
+section {
+    padding: 40px 0;
+}
+
+section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.container-compétences {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.sections {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 15px;
+    width: 250px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+
+
+/* Projects Grid */
+
+.projects-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.project {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 15px;
+    width: 250px;
+    text-align: center;
+    border-radius: 5px;
+}
+.project img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Contact Form */
+form {
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+input, textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+button {
+    padding: 10px;
+    background-color: #1790f3;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #1790f3;
+    border-radius: 10px;
+}
+
+
+/* FOOTER */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
