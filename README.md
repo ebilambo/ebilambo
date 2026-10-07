@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Je suis actuellement étudiante en BTS SIO option Slam à Aurlom BTS+ et je suis également à la recherche d'une alternance.
+Je suis actuellement étudiante en BTS SIO option Slam à Aurlom BTS+.
 
 Passionnée par le développement web et les langages informatiques, j'espère pouvoir travailler dans des entreprises où ces domaines sont courants.
 
@@ -27,6 +27,8 @@ Mon objectif principal serait de faire, au moins, un bac +3 (BTS SIO Slam et ens
 Le métier que j'aimerais faire plus que tout serait d'être développeuse web/fullstack/front-end/back-end.
 
 ## Expériences professionnelles
+
+2026: Dans le cadre de ma première année en BTS SIO Slam, j'ai fait un stage de 4 semaines à la mairie du Pré Saint Gervais, où j'ai pu développer une application métier pour les membres internes de la mairie.
 
 2023: Stage d'observation d'une semaine à Outsight. Découverte de différents métiers dans le dévéloppement informatique.
 
@@ -51,9 +53,13 @@ Avec l'école, je suis en train d'apprendre Javascript. Ayant un peu d'expérien
 
 ## Compétences
 
-Langages informatiques: Python, HTML, CSS, C, Racket, Perl, Javascript
+Langages informatiques: Python, HTML, CSS, C, Racket, Perl, Javascript, PHP
 
 Outils informatiques: Git, VSCode
+
+Base de données: MySQL
+
+Microsoft : Word, Excel, Powerpoint, Teams, SharePoint, PowerApps
 
 Systèmes d'exploitation: Windows, Linux
 
